@@ -1,0 +1,13 @@
+*.config
+*.csproj
+*.opensdf
+*.resx
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+/bin
+/obj
+/Properties
+/Release
